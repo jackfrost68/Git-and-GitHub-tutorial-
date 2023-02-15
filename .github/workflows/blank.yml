@@ -46,7 +46,7 @@ jobs:
 
           # Required recipients' addresses:
 
-          to: jnyamu1@babson.edu, 
+          to: jnyamu1@babson.edu, tzahoor1@babson.edu, zhuda1@babson.edu, thirani1@babson.edu
 
           # Required sender full name (address can be skipped) :
 
@@ -54,7 +54,7 @@ jobs:
 
           # Optional plain body:
 
-          body: There's been an update on the Repo, go check it out!
+          body: There's been an update on the GitHub repository - please review :) 
           
           
           
